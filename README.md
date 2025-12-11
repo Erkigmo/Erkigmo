@@ -4,3 +4,6 @@
   <img src="https://img.shields.io/badge/Python%20-%20%233776AB?logo=python&logoColor=%23FFFFFF&color=%233776AB"alt="Python"/>
   <img src="https://img.shields.io/badge/FTC%20-%20%230066B3?logo=first&logoColor=%23FFFFFF&color=%230066B3"alt="FTC"/>
 </p>
+
+I like coding
+Discord: `erkigmo`
