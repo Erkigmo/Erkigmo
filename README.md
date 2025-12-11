@@ -5,5 +5,5 @@
   <img src="https://img.shields.io/badge/FTC%20-%20%230066B3?logo=first&logoColor=%23FFFFFF&color=%230066B3"alt="FTC"/>
 </p>
 
-I like coding
-Discord: `erkigmo`
+I like coding.
+<br>Discord: `erkigmo`
