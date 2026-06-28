@@ -1,6 +1,6 @@
 ![Erkigmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkigmo)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Lua%20-%20%23000080?logo=lua&logoColor=%23FFFFFF&color=%23000080"alt="Lua"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python%20-%20%233776AB?logo=python&logoColor=%23FFFFFF&color=%233776AB"alt="Python"/>
