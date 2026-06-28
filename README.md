@@ -1,4 +1,4 @@
-![Erkigmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkigmo)
+![Erkigmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkigmo&theme=shadow_red&show_icons=true)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua%20-%20%23000080?logo=lua&logoColor=%23FFFFFF&color=%23000080"alt="Lua"/>
